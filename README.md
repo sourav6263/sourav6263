@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @sourav6263
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sourav
+- 👀 I’m interested in Data, Data Analitics, Advance Excel,SQL,Power Bi, Pytho
+- 📫 How to reach me - souravswain34@gmail.com
 
 <!---
 sourav6263/sourav6263 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
