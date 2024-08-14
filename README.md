@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sourav
-- 👀 I’m interested in Data, Data Analitics, Advance Excel,SQL,Power Bi, Python
+- 👀 I’m interested in Data, Data Analytics, Advance Excel,SQL,Power Bi, Python
 - 📫 How to reach me - souravswain34@gmail.com
 
 <!---
